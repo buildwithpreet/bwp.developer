@@ -1,55 +1,72 @@
 <h1 align="center">Hi 👋, I'm Preet Nagar</h1>
-<h3 align="center">🚀 B.Tech CSE Student | AI & Web Developer | Hackathon Enthusiast</h3>
+<h3 align="center">🚀 A Passionate CSE Student | Future AI Innovator | Hackathon Enthusiast</h3>
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 **2nd Year B.Tech CSE 
-- 💻 Skilled in **C++, Java, Python, Frontend Development**
-- 🏆 Hackathon participant – **HackPrix 2.0** & more
-- 🌱 Currently learning **Java Backend with Spring Boot**
-- ⚡ Fun fact: *I can survive 3 days straight on coffee and debugging.*
+## 🚀 About Me  
+- 🎓 I'm a **B.Tech CSE Student** (3rd Semester)  
+- 💻 Currently mastering **C++ with DSA** and **Java Backend Development**  
+- 🤖 Exploring **AI/ML, Generative AI, and Automation** for real-world impact  
+- 🏆 Hackathon Participant at **HackPrix 2.0 (Hyderabad)**   
+- 📚 Always learning & sharing knowledge to inspire others  
 
 ---
 
-### 🔧 Tech Stack
-
-**Languages**  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Web**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
-**AI/ML**  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=orange)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-purple?style=flat)
+## 📌 Current Focus  
+- 📍 C++ with DSA – Competitive Programming & Problem Solving  
+- 📍 Full-Stack Development –  JavaScript, React, Java Spring Boot ,dbms,mySql 
+- 📍 AI & ML – Python, TensorFlow, OpenAI API, Computer Vision  
+- 📍 Hackathon-Ready Projects – Combining AI, IoT, and Web Apps
 
 ---
 
-### 📌 Featured Projects
-- **[VoxCare – AI Health Support for Rural India](#)** – AI, IoT & sustainability hackathon project  
-- **[BorderGuard AI](#)** – Real-time border safety system with AI & Raspberry Pi  
-- **[Netflix Stranger Things UI](#)** – Themed Netflix-style frontend with animations
+## 🛠 Tech Stack
+
+### 💻 Languages  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### 🧰 Tools & Frameworks  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 
 ---
 
-### 📊 GitHub Stats
-![Preet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preetnagar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preetnagar&layout=compact&theme=radical)
+## 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bwp-developer&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bwp-developer&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwp-developer&layout=compact&theme=radical" />
+</p>
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/preetnagar)  
-[![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail)](mailto:your-email@gmail.com)
+## 🏆 Achievements  
+- 🥇 Selected for **HackPrix 2.0** National Hackathon  
+- 💡 Built multiple **AI-powered and Web Dev projects**  
+- 🎯 Consistent learner & GitHub contributor  
 
 ---
 
-💡 *"Code. Create. Conquer."*
+## 📫 Let's Connect!  
+<p align="left">
+<a href="https://github.com/bwp-developer" target="_blank"><img src="https://img.shields.io/badge/GitHub-bwp--developer-black?style=for-the-badge&logo=github"></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:preetnagar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+⭐ **Fun Fact:** I believe **"Code + AI can change the world"** and I'm on a mission to prove it 🚀
+
 # bwp.developer
