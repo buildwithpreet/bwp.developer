@@ -4,8 +4,8 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 **2nd Year B.Tech CSE @ RGPV**
-- 💻 Skilled in **C++, Java, Python, AI/ML, Frontend Development**
+- 🎓 **2nd Year B.Tech CSE 
+- 💻 Skilled in **C++, Java, Python, Frontend Development**
 - 🏆 Hackathon participant – **HackPrix 2.0** & more
 - 🌱 Currently learning **Java Backend with Spring Boot**
 - ⚡ Fun fact: *I can survive 3 days straight on coffee and debugging.*
